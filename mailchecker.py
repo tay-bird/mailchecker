@@ -5,8 +5,8 @@ import imaplib, email, json
 class EmailChecker:
     """ Create an EmailChecker instance.
     
-    This tool uses an insecure channel to log in and
-    read emails. Do not pass valuable assets through
+    This tool uses a less secure channel to log in and
+    read emails. Avoid passing valuable assets through
     this tool.
     
     Initialize the EmailChecker with:
