@@ -1,6 +1,6 @@
 # MAILCHECKER.
 This is the code that handles mail for **http://skybird.taybird.com/**.
-It can be run locally, or through Apache with WSGI.
+It provides the critical **mail.json** file.
 
 ## Usage.
 Import the **EmailChecker** class from mailchecker. Initialize it by providing
