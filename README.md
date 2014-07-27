@@ -14,7 +14,11 @@ a **mail server**, **address**, and **password**.
 ### Iterate through the mail.
 
     for message in mail:
-        print 'Message from: ', message['from']
+        print 'Message from:       ', message['from']
+        print 'Message to:         ', message['to']
+        print 'Message time:       ', message['time']
+        print 'Message attachment: ', message['attachment']
+        print 'Mesage body:        ', message['body']
 
 ### Write the mail.
 
