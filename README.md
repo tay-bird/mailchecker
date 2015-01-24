@@ -1,6 +1,7 @@
 # MAILCHECKER.
-This is the code that handles mail for **http://skybird.taybird.com/**.
-It provides the critical **mail.json** file.
+Mailchecker connects with the specified server and provides a simple interface for incoming messages.
+
+This utility was produced for **http://skybird.taybird.com/**. It provides a **mail.json** file.
 
 ## Usage.
 Import the **EmailChecker** class from mailchecker. Initialize it by providing
