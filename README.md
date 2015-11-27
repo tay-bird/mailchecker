@@ -1,7 +1,7 @@
 # MAILCHECKER.
 Mailchecker connects with the specified server and provides a simple interface for incoming messages.
 
-This utility was produced for **http://skybird.taybird.com/**. It provides a **mail.json** file.
+This utility provides a **mail.json** file.
 
 ## Usage.
 Import the **EmailChecker** class from mailchecker. Initialize it by providing
